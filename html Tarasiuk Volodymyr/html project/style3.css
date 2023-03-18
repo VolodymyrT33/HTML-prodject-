@@ -1,0 +1,1564 @@
+
+*{
+    margin:0-auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media (min-width:353px) and (max-width:768px){
+    .container{
+    font-family: 'Futura PT';
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    width:100%;
+    height: 100vh;
+
+padding:1%;
+}
+
+.AVA1{
+    display:flex;
+    border-radius: 8%;
+
+}
+.academy{
+    display: flex;
+  max-width:100%;
+  max-height: 100%;
+
+}
+.left_info{
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    width:90%;
+    border-radius: 10px;
+    padding: 1%;
+background-color:#003C66;
+    }
+    .foto{
+    height: 20%;
+    width: 100%;
+    border-radius: 15px;
+}
+.AVA{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+   border: 4px solid white;
+
+}
+    .text{
+    height: 10%;
+    display: flex;
+flex-direction: column;
+
+}
+  .name1{
+    color: #FFFFFF;
+    font-size: 25px;
+ text-align:  center;
+}
+    .name{
+font-size: 20px;
+ color: #7AF7D9;
+
+
+}
+  .contactu{
+    margin-top:5%;;
+ color: #7AF7D9;
+    font-size: 20px;
+
+
+}
+
+.text2{
+    height: 20%;
+    width: 100%;
+    padding: 5px;
+    font-size: 14px;
+
+
+}
+   .socmereji{
+    color: #7AF7D9;
+
+}
+    .point{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.phone{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.mail{
+    color:#FFFFFF;
+    font-family:"FUTURA PT "14px;
+}
+
+
+
+.text3{
+    height: 20%;
+    width: 100%;
+    list-style-type: none;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.info{
+    margin-top: 5%;
+    color: #7AF7D9;
+    font-size: 20px;
+    }
+.mail_study{
+    color: #FFFFFF;
+    }
+
+
+.study_IT{
+     color: #FFFFFF;
+    font-size: 16px;
+}
+.work{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+       .right_block{
+           margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 90%;
+    border-radius: 10px;
+    justify-content: space-around;
+    }
+      .hader{
+    display: flex;
+    flex-direction: row;
+    height: 8%;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+
+.study{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    height: 14%;
+
+                 background-color: white;
+border-radius: 10px;
+    align-items: center;
+    justify-content:space-around;
+ box-shadow: 2px 8px 30px #D2D8E9
+
+}
+          .study1{
+            height: 100%;
+            width: 90%;
+            display: flex;
+            flex-direction:row;
+            justify-content: space-around;
+              }
+    .servis{
+        width: 50%;
+            height: 50%;
+    }
+    .project{
+        width: 50%;
+        height: 50%;
+    }
+
+
+
+        .study2{
+            height: 100%;
+            width:90%;
+            display: flex;
+            flex-direction:row;
+            justify-content: space-around;
+
+        }
+.resoonse{
+         width: 50%;
+         height: 50%
+    }
+    .project{
+        width: 50%;
+        height: 50%;
+    }
+
+.job{
+    width: 100%;
+    height: 90%;
+
+}
+.settings{
+    width: 100%;
+}
+
+.servis{
+    width: 25%;
+    height: 100%;
+        display: flex;
+justify-content: center;
+}
+.project{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+}
+.response{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+}
+.sertufic{
+    width: 25%;
+    height: 100%;
+display: flex;
+justify-content: center;
+
+}
+
+.line{
+    width: 95%;
+    margin-left: 7px;
+    color: white;
+
+}
+.left_up{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 33%;
+    border-radius: 10px;
+    background-color:white;
+ box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.iconka{
+    display: flex;
+border-radius: 50%;
+align-content: center;
+    margin-left: 5%;
+
+}
+    .aferta{
+        max-width: 80%;
+    }
+
+
+    .social{
+    align-content: center;
+    text-align: center;
+    display: flex;
+        flex-direction: row;
+    font-size:16px;
+    text-align: center;
+
+
+}
+   .aferta-text{
+       width: 100%;
+       height: 100%;
+       margin-bottom: auto;
+margin-top: -16%;
+    }
+
+
+.academy{
+
+
+}
+.right_up{
+    width: 65%;
+    border-radius: 10px;
+    background-color: white;
+     box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.progress{
+    width:85%;
+    margin-top: auto;
+    margin-left: 20px;;
+
+}
+
+
+.body1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 74%;
+   background-color: #FFFFFF;
+    border-radius: 10px;
+    justify-content: space-between;
+align-content: space-between;
+     box-shadow: 2px 8px 30px #D2D8E9;
+margin: 5px;
+}
+.course{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    height: 8%;
+    margin-left:10px;
+background-color: #FFFFFF;
+
+}
+.courset{
+    width: 10%;
+    height: 100%;
+        color: #0D6EFD;
+    font-size: 20px;
+}
+    .line2{
+        width: 90%;
+        height: 100%;
+    }
+.line2a{
+    height:  3px;
+   background-color:#0D6EFD;
+}
+.line3{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: - 5%;
+}
+.body_up{
+    display: flex;
+    width: 100%;
+    height: 45%;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+    padding: 5px;
+
+}
+.left_body{
+    width: 45%;
+    height: 95%;
+     border-radius:  10px;
+    display: flex;
+    flex-direction: column;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.left1{
+    width: 100%;
+    height: 75%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+border-radius: 10px;
+}
+.left_text{
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+}
+.left_foto{
+    width: 30%;
+    height: 100%;
+
+}
+
+.left_text1{
+    width: 100%;
+    height: 75%;
+
+
+    border-top-left-radius: 10px;
+}
+.left_text2{
+    width: 100%;
+    height: 25%;
+
+display: flex;
+}
+.academy{
+    border-radius: 5px;
+    width: auto;
+    display: flex;
+
+}
+.bord{
+    border-radius: 10px;
+}
+.left2{
+    width: 100%;
+    height: 25%;
+
+
+}
+
+
+.right_body{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.module{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10%;
+
+    color: #0D6EFD;
+
+}
+.modulet{
+    display: flex;
+    width: 5%;
+    margin-left: 10px;
+    height: 100%;
+    font-size: 20px;
+
+}
+.line3{
+    width: 80%;
+    height: 100%;
+}
+.line4{
+    background-color:#0D6EFD;
+height: 3px;
+
+}
+.body_down{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+align-content: center;
+    width: 100%;
+    height: 45%;
+}
+.AVA1{
+    border-radius: 80px;
+    height: 80%;
+    width: 90%;
+    margin-top: 5%;
+}
+.down_left{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.down_right{
+        width: 45%;
+    height: 100%;
+    border-radius: 10px;
+}
+.bord{
+    font-size: 20px;
+    color: black;
+     text-decoration: none;
+}
+.networks{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 35%;
+   right: 0;
+   background-color: white;
+    border-radius: 8px 0 0 8px;
+     align-items: center;
+    justify-content: space-around;
+     box-shadow: 0px 4px 8px #000000;
+
+width: 58px;
+height: 250px;
+
+}
+.vidgyk{
+    font-family:cursive;
+    color: blue;
+    width: 90%;
+}
+.settings{
+    width: 65%;
+
+}
+}
+    @media (min-width:1025px){
+
+.container{
+    font-family: 'Futura PT';
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+    height: 100vh;
+
+padding:1%;
+}
+.name1{
+    color: #FFFFFF;
+    font-size: 20px;
+
+
+}
+.AVA1{
+    display:flex;
+    border-radius: 8%;
+}
+.academy{
+    display: flex;
+    width:80%;
+    height: 100%;
+
+}
+.left_info{
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    width: 25%;
+    border-radius: 10px;
+    padding: 1%;
+background-color:#003C66;
+}
+.foto{
+    height: 20%;
+    width: 100%;
+    border-radius: 15px;
+}
+.AVA{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+   border: 4px solid white;
+
+}
+
+
+.text{
+    height: 20%;
+    display: flex;
+    text-align: center;
+}
+
+.text1{
+    height: 20%;
+    width: 100%;
+    text-align: start;
+
+}
+.point{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.phone{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.mail{
+    color:#FFFFFF;
+    font-family:"FUTURA PT "14px;
+}
+.contactu{
+    margin-top:5%;;
+ color: #7AF7D9;
+    font-size: 20px;
+
+
+}
+.socmereji{
+    font-family: "Futura PT" color: #7AF7D9;
+    font-size: 20px;
+
+}
+
+
+.right_block{
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 72%;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-content:space-around;
+}
+
+}
+    @media(min-width:769px) and (max-width:1024px){
+       .container{
+    font-family: 'Futura PT', sans-serif;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    width:100%;
+    height: 100vh;
+
+padding:1%;
+}
+.name1{
+    color: #FFFFFF;
+    font-size: 20px;
+
+
+}
+.AVA1{
+    display:flex;
+    border-radius: 8%;
+}
+.academy{
+    display: flex;
+    width:80%;
+    height: 100%;
+
+}
+.left_info{
+    display: flex;
+    flex-direction:row;
+    height:23%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 1%;
+background-color:#003C66;
+    }
+       .right_block{
+    display: flex;
+    flex-direction: column;
+
+    height: 72%;
+    width: 100%;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-content:space-around;
+}
+
+
+.foto{
+    height: 15%;
+    width: 100%;
+    border-radius: 15px;
+}
+.AVA{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+   border: 4px solid white;
+
+}
+
+
+.text{
+    height: 19%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.text1{
+    height: 23%;
+    width: 100%;
+    text-align: start;
+
+}
+.point{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.phone{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.mail{
+    color:#FFFFFF;
+    font-family:"FUTURA PT "14px;
+}
+.contactu{
+    margin-top:5%;;
+ color: #7AF7D9;
+    font-size: 20px;
+
+
+}
+.socmereji{
+    font-family: "Futura PT" color: #7AF7D9;
+    font-size: 20px;
+
+}
+
+.name{
+font-size: 20px;
+ color: #7AF7D9;
+
+
+}
+.text2{
+    height: 23%;
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    margin-top: -2%;
+
+
+}
+.info{
+    margin-top: 5%;
+    color: #7AF7D9;
+    font-size: 20px;
+}
+.text3{
+    height: 23%;
+    width: 100%;
+    list-style-type: none;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.mail_study{
+    color: #FFFFFF;
+
+}
+.socmereji{
+    color: #7AF7D9;
+
+}
+.study_IT{
+     color: #FFFFFF;
+    font-size: 16px;
+}
+.work{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.hader{
+    display: flex;
+    flex-direction: row;
+    height: 9%;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.study{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 8%;
+        background-color: white;
+border-radius: 10px;
+    justify-content: space-around;
+ box-shadow: 2px 8px 30px #D2D8E9
+
+}
+       .study1{
+            height: 100%;
+            width: 50%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+        .study2{
+            height: 100%;
+            width: 50%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+.job{
+    width: 100%;
+
+}
+.settings{
+    width: 100%;
+}
+
+.servis{
+    width: 25%;
+    height: 100%;
+        display: flex;
+justify-content: center;
+    font-size: 20px;
+
+}
+.project{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+    font-size: 20px;
+}
+.response{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+    font-size: 20px;
+}
+.sertufic{
+    width: 25%;
+    height: 100%;
+display: flex;
+justify-content: center;
+    font-size: 20px;
+
+}
+
+.line{
+    width: 95%;
+    margin-left: 7px;
+    color: white;
+
+}
+.left_up{
+    display: flex;
+    flex-direction:row;
+    width: 33%;
+    border-radius: 10px;
+    background-color:white;
+ box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.iconka{
+    width: 20%;
+    height: 70%;
+    display: flex;
+    margin-left: 5px;
+}
+.img{
+align-content: center;
+}
+
+
+.social{
+    font-size: 16px;
+
+}
+.academy{
+    display: flex;
+}
+.right_up{
+    width: 65%;
+    border-radius: 10px;
+    background-color: white;
+     box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.progress{
+    width:85%;
+    margin-top: auto;
+    margin-left: 20px;;
+
+}
+
+.right_up{
+    width: 65%;
+
+    background-color
+}
+.body1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 82%;
+   background-color: #FFFFFF;
+    border-radius: 10px;
+    justify-content: space-between;
+align-content: space-between;
+     box-shadow: 2px 8px 30px #D2D8E9;
+margin: 5px;
+}
+.course{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    height: 8%;
+    margin-left:10px;
+background-color: #FFFFFF;
+
+}
+.courset{
+    width: 10%;
+    height: 100%;
+        color: #0D6EFD;
+    font-size: 20px;
+}
+    .line2{
+        width: 90%;
+        height: 100%;
+    }
+.line2a{
+    height:  3px;
+   background-color:#0D6EFD;
+}
+.line3{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: - 5%;
+}
+.body_up{
+    display: flex;
+    width: 100%;
+    height: 45%;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+    padding: 5px;
+
+}
+.left_body{
+    width: 45%;
+    height: 95%;
+     border-radius:  10px;
+    display: flex;
+    flex-direction: column;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.left1{
+    width: 100%;
+    height: 75%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+border-radius: 10px;
+}
+.left_text{
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+}
+.left_foto{
+    width: 30%;
+    height: 100%;
+
+}
+
+.left_text1{
+    width: 100%;
+    height: 75%;
+
+
+    border-top-left-radius: 10px;
+}
+.left_text2{
+    width: 100%;
+    height: 25%;
+
+display: flex;
+    justify-content: center;
+}
+.academy{
+    border-radius: 5px;
+    width: auto;
+    display: flex;
+
+}
+.bord{
+    border-radius: 10px;
+}
+.left2{
+    width: 100%;
+    height: 25%;
+
+
+}
+
+
+.right_body{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.module{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10%;
+
+    color: #0D6EFD;
+
+}
+.modulet{
+    display: flex;
+    width: 5%;
+    margin-left: 10px;
+    height: 100%;
+    font-size: 20px;
+
+}
+.line3{
+    width: 80%;
+    height: 100%;
+}
+.line4{
+    background-color:#0D6EFD;
+height: 3px;
+
+}
+.body_down{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+align-content: center;
+    width: 100%;
+    height: 45%;
+}
+.AVA1{
+    border-radius: 80px;
+    height: 80%;
+    width: 90%;
+    margin-top: 5%;
+}
+.down_left{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.down_right{
+        width: 45%;
+    height: 100%;
+    border-radius: 10px;
+}
+.bord{
+    font-size: 20px;
+    color: black;
+     text-decoration: none;
+}
+.networks{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 35%;
+   right: 0;
+   background-color: white;
+    border-radius: 8px 0 0 8px;
+     align-items: center;
+    justify-content: space-around;
+     box-shadow: 0px 4px 8px #000000;
+
+width: 58px;
+height: 250px;
+
+}
+.vidgyk{
+    font-family:cursive;
+    color: blue;
+    width: 90%;
+}
+settings{
+    width: 65%;
+
+}
+.tab-pane{
+    width:100%;
+    height: 90%;
+
+}
+
+
+
+
+
+}
+    @media (min-width:1025px){
+
+.container{
+    font-family: 'Futura PT';
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;
+    height: 100vh;
+
+padding:1%;
+}
+.name1{
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.AVA1{
+    display:flex;
+    border-radius: 8%;
+}
+.academy{
+    display: flex;
+    width:80%;
+    height: 100%;
+
+}
+.left_info{
+    display: flex;
+    flex-direction:column;
+    height:100%;
+    width: 25%;
+    border-radius: 10px;
+    padding: 1%;
+background-color:#003C66;
+}
+.foto{
+    height: 20%;
+    width: 100%;
+    border-radius: 15px;
+}
+.AVA{
+    border-radius: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+   border: 4px solid white;
+
+}
+
+
+.text{
+    height: 11%;
+    width: 100%;
+    display: flex;
+    text-align: start;
+    flex-direction: column;
+}
+
+.text1{
+    height: 23%;
+    width: 100%;
+    text-align: start;
+
+}
+.point{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.phone{
+    color: #FFFFFF;
+    font-family: "Futura PT "14px;
+}
+.mail{
+    color:#FFFFFF;
+    font-family:"FUTURA PT "14px;
+}
+.contactu{
+    margin-top:5%;;
+ color: #7AF7D9;
+    font-size: 20px;
+
+
+}
+.socmereji{
+    font-family: "Futura PT" color: #7AF7D9;
+    font-size: 20px;
+
+}
+
+.name{
+font-size: 20px;
+ color: #7AF7D9;
+    text-align: start;
+
+
+}
+.text2{
+    height: 23%;
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+
+
+}
+.info{
+    margin-top: 5%;
+    color: #7AF7D9;
+    font-size: 20px;
+}
+.text3{
+    height: 23%;
+    width: 100%;
+    list-style-type: none;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+.mail_study{
+    color: #FFFFFF;
+
+}
+.socmereji{
+    color: #7AF7D9;
+
+}
+.study_IT{
+     color: #FFFFFF;
+    font-size: 16px;
+}
+.work{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.right_block{
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 72%;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-content:space-around;
+}
+.hader{
+    display: flex;
+    flex-direction: row;
+    height: 9%;
+    width: 100%;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.study{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 8%;
+        background-color: white;
+border-radius: 10px;
+    justify-content: space-around;
+ box-shadow: 2px 8px 30px #D2D8E9
+
+}
+        .study1{
+            height: 100%;
+            width: 50%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+        .study2{
+            height: 100%;
+            width: 50%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+.job{
+    width: 100%;
+
+}
+.settings{
+    width: 100%;
+}
+
+.servis{
+    width: 25%;
+    height: 100%;
+        display: flex;
+justify-content: center;
+    font-size: 20px;
+}
+.project{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+    font-size: 20px;
+}
+.response{
+    width: 25%;
+    height: 100%;
+    display: flex;
+justify-content: center;
+    font-size: 20px;
+}
+.sertufic{
+    width: 25%;
+    height: 100%;
+display: flex;
+justify-content: center;
+    font-size: 20px;
+
+}
+
+.line{
+    width: 95%;
+    margin-left: 7px;
+    color: white;
+
+}
+.left_up{
+    display: flex;
+    flex-direction:row;
+    width: 33%;
+    border-radius: 10px;
+    background-color:white;
+ box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.iconka{
+    width: 20%;
+    height: 70%;
+    display: flex;
+    margin-left: 5px;
+}
+.img{
+align-content: center;
+}
+
+.social{
+    width: 80%;
+    font-size: 16px;
+    text-align: center;
+
+
+}
+.academy{
+    display: flex;
+}
+.right_up{
+    width: 65%;
+    border-radius: 10px;
+    background-color: white;
+     box-shadow: 2px 8px 30px #D2D8E9;
+
+}
+.progress{
+    width:85%;
+    margin-top: auto;
+    margin-left: 20px;;
+
+}
+
+.right_up{
+    width: 65%;
+
+    background-color
+}
+.body1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 74%;
+   background-color: #FFFFFF;
+    border-radius: 10px;
+    justify-content: space-between;
+align-content: space-between;
+     box-shadow: 2px 8px 30px #D2D8E9;
+margin: 5px;
+}
+.course{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    height: 8%;
+    margin-left:10px;
+background-color: #FFFFFF;
+
+}
+.courset{
+    width: 10%;
+    height: 100%;
+        color: #0D6EFD;
+    font-size: 20px;
+}
+    .line2{
+        width: 90%;
+        height: 100%;
+    }
+.line2a{
+    height:  3px;
+   background-color:#0D6EFD;
+}
+.line3{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: - 5%;
+}
+.body_up{
+    display: flex;
+    width: 100%;
+    height: 45%;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+    padding: 5px;
+
+}
+.left_body{
+    width: 45%;
+    height: 95%;
+     border-radius:  10px;
+    display: flex;
+    flex-direction: column;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.left1{
+    width: 100%;
+    height: 75%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+border-radius: 10px;
+}
+.left_text{
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+}
+.left_foto{
+    width: 30%;
+    height: 100%;
+
+}
+
+.left_text1{
+    width: 100%;
+    height: 75%;
+
+
+    border-top-left-radius: 10px;
+}
+.left_text2{
+    width: 100%;
+    height: 25%;
+
+display: flex;
+    justify-content: center;
+}
+.academy{
+    border-radius: 5px;
+    width: auto;
+    display: flex;
+
+}
+.bord{
+    border-radius: 10px;
+}
+.left2{
+    width: 100%;
+    height: 25%;
+
+
+}
+
+
+.right_body{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.module{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10%;
+
+    color: #0D6EFD;
+
+}
+.modulet{
+    display: flex;
+    width: 5%;
+    margin-left: 10px;
+    height: 100%;
+    font-size: 20px;
+
+}
+.line3{
+    width: 80%;
+    height: 100%;
+}
+.line4{
+    background-color:#0D6EFD;
+height: 3px;
+
+}
+.body_down{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+align-content: center;
+    width: 100%;
+    height: 45%;
+}
+.AVA1{
+    border-radius: 80px;
+    height: 80%;
+    width: 90%;
+    margin-top: 5%;
+}
+.down_left{
+    width: 45%;
+    height: 95%;
+    border-radius: 10px;
+     box-shadow: 2px 8px 30px #D2D8E9;
+}
+.down_right{
+        width: 45%;
+    height: 100%;
+    border-radius: 10px;
+}
+.bord{
+    font-size: 20px;
+    color: black;
+     text-decoration: none;
+}
+.networks{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 35%;
+   right: 0;
+   background-color: white;
+    border-radius: 8px 0 0 8px;
+     align-items: center;
+    justify-content: space-around;
+     box-shadow: 0px 4px 8px #000000;
+
+width: 58px;
+height: 250px;
+
+}
+.vidgyk{
+    font-family:cursive;
+    color: blue;
+    width: 90%;
+}
+settings{
+    width: 65%;
+
+}
+.tab-pane{
+    width:100%;
+    height: 90%;
+
+}
+}
+
